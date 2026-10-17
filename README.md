@@ -2,7 +2,7 @@
 
 Interactive viewer for street-level imagery with AI-powered semantic segmentation.
 
-!\[Viewer Screenshot](assets/screenshot.jpg)
+![Viewer Screenshot](assets/screenshot.jpg)
 
 ## Features
 
