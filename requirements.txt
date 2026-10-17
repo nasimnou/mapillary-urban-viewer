@@ -1,0 +1,11 @@
+﻿torch==2.8.0
+torchvision==0.23.0
+transformers
+Pillow
+requests
+numpy
+pandas
+python-dotenv
+mercantile
+mapbox-vector-tile
+jupyter
